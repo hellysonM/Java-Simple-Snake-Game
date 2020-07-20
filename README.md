@@ -1,2 +1,2 @@
 # Java-Simple-Snake-Game
-BY HELLYSON MACEDO
+BY HELLYSON
